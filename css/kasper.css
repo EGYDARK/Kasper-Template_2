@@ -125,11 +125,11 @@ ul
 /* Start Header  */
 header 
 {
-    position: absolute;
+    position: fixed;
     left: 0;
     width: 100%;
     z-index: 10;
-    /* background-color: #07a1cc3d; */
+    background-color: #142e351f;
 }
 
 header .container
